@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9216eb14-9576-429b-85a4-d8edc53221cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroInJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContBancar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContBancarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operatori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variabile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariabileHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
